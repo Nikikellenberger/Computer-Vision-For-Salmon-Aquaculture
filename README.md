@@ -112,7 +112,7 @@ Evaluation used 21 images containing 210 annotated salmon.
 
 Evaluation used 8 images containing 184 annotated salmon.
 
-![Segmentation training curves](results/segmentation/results.png)
+![Segmentation training curves](results/segmentation/results(2).png)
 
 These experiments use different datasets and evaluation splits.
 Their scores should not be interpreted as a direct model comparison.

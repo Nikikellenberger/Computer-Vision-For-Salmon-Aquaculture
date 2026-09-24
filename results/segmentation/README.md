@@ -41,9 +41,9 @@ validation split.
 
 ## Files
 
-- `results (2).png` — Training curves and validation metrics.
-- `results (1).csv` — Per-epoch training and validation history.
-- `args (1).yaml` — Training configuration.
+- `results_seg.png` — Training curves and validation metrics.
+- `results_seg.csv` — Per-epoch training and validation history.
+- `args_seg.yaml` — Training configuration.
 
 ## Limitations
 
